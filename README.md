@@ -1,4 +1,4 @@
-# solidity-course-projects
+# Ethereum101-course-project
 
 In this repository you can find my project I did in order to complete the Solidity course at Moralis Academy.
 
