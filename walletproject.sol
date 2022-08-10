@@ -42,7 +42,7 @@ contract WalletProject{
         _;
     }
     
-    //Add an Admin to the adminArray
+    //Add an Admin to the owner Array
     function addAdmin(address _owner)public onlyOwner{
         
         for(uint i = 0; i < owners.length; i++) {
