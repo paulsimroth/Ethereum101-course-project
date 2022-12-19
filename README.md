@@ -5,7 +5,11 @@ In this repository you can find my project I did in order to complete the Solidi
 The Wallet Project was for the Ethereum Smart Contract Programming 101 Course at Moralis Academy which I completed on Nov. 8th 2021.
 It is a multi signature wallet where you need the approval of the Admins to complete a transaction.
 
+## Technology Stack & Tools
 
+- Solidity (Writing Smart Contract)
+
+## Disclaimer
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
